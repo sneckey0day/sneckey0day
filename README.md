@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Harsh Parashar 👋
 
 ![Profile GIF](link-to-your-gif.gif)
 
