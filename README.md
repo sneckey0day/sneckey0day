@@ -28,18 +28,6 @@ I started my journey into the world of cybersecurity with a strong curiosity to 
 </p>
 
 <p align="center">
-<a href="https://www.youtube.com/channel/UCLvDJV4TdI0RA76ezNuP3kg"><img title="YouTube" src="<img alt="Endpoint Badge" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCLvDJV4TdI0RA76ezNuP3kg"></a>
-<a href="https://rebrand.ly/noobhackers"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Noob Hackers-red?style=for-the-badge&logo=Youtube"></a>
-</p>
-
-<p align="center">
-<a href="https://rebrand.ly/telegramchnl"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
-<a href="https://rebrand.ly/hckrgroups"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
-<a href="https://rebrand.ly/insgrm"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
-<p align="center">
-</p>
-
-<p align="center">
-<a href="https://github.com/noob-hackers"><img title="noob-hackers" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noob-hackers&layout=compact"></a>
+<a href="https://github.com/sneckey0day"><img title="Sneckey0Day" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sneckey0Day&layout=compact"></a>
 </p>
 Happy hacking! 🚀🔐
