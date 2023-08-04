@@ -13,6 +13,8 @@ I started my journey into the world of cybersecurity with a strong curiosity to 
 
 - Red Teaming: I am fascinated by the offensive side of cybersecurity, where I get to simulate real-world attacks to identify and strengthen vulnerabilities.
 - Capture The Flag (CTF): Solving CTF challenges has been my favorite pastime. I enjoy the thrill of cracking codes, solving puzzles, and overcoming complex cybersecurity challenges.
+- OSINT (Open Source Intelligence): I have a keen interest in gathering intelligence from publicly available sources to better understand potential threats and enhance cybersecurity measures.
+- Digital Investigation: I am intrigued by the process of investigating digital incidents and conducting forensic analysis to uncover evidence for security incidents.
 
 ## TryHackMe Badge 🏅
 
