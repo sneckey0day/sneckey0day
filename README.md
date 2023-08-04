@@ -25,7 +25,7 @@ I started my journey into the world of cybersecurity with a strong curiosity to 
 
 Check out my GitHub profile for some exciting projects and repositories related to cybersecurity and Red Teaming:
 
-[My GitHub Profile](insert_github_profile_url_here)
+--- ### :fire: My Stats
 
 Feel free to reach out to me on my social handles or through GitHub if you share similar interests or want to collaborate on cybersecurity projects. Let's make the digital world a safer place together! 🔍🌐🔒
 
