@@ -24,16 +24,23 @@ I started my journey into the world of cybersecurity with a strong curiosity to 
 
 ## GitHub Profile 💻
 
-Check out my GitHub profile for some exciting projects and repositories related to cybersecurity and Red Teaming:
+<p align="center"><a href="https://github.com/sneckey0day"><img title="Sneckey0day" src="https://github-readme-stats.vercel.app/api?username=sneckey0day&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+</p>
 
---- ### :fire: My Stats
+<p align="center">
+<a href="https://www.youtube.com/channel/UCLvDJV4TdI0RA76ezNuP3kg"><img title="YouTube" src="![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCLvDJV4TdI0RA76ezNuP3kg)
+"></a>
+<a href="https://rebrand.ly/noobhackers"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Noob Hackers-red?style=for-the-badge&logo=Youtube"></a>
+</p>
 
-Feel free to reach out to me on my social handles or through GitHub if you share similar interests or want to collaborate on cybersecurity projects. Let's make the digital world a safer place together! 🔍🌐🔒
+<p align="center">
+<a href="https://rebrand.ly/telegramchnl"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
+<a href="https://rebrand.ly/hckrgroups"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://rebrand.ly/insgrm"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
+<p align="center">
+</p>
 
-## Connect with Me 🤝
-
-🐦 Twitter: [@YourTwitterHandle](insert_twitter_profile_url_here)
-👥 LinkedIn: [YourLinkedInProfile](insert_linkedin_profile_url_here)
-📷 Instagram: [@YourInstagramHandle](insert_instagram_profile_url_here)
-
+<p align="center">
+<a href="https://github.com/noob-hackers"><img title="noob-hackers" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noob-hackers&layout=compact"></a>
+</p>
 Happy hacking! 🚀🔐
