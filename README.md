@@ -27,14 +27,6 @@ Check out my GitHub profile for some exciting projects and repositories related 
 
 [My GitHub Profile](insert_github_profile_url_here)
 
-## Cool Hacking GIFs 🕶️
-
-To make this README even cooler and attractive, here are some hacking-themed GIFs:
-
-1. ![Hacking GIF 1](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
-2. ![Hacking GIF 2](https://media.giphy.com/media/Tg8HYjagV7FtW/giphy.gif)
-3. ![Hacking GIF 3](https://media.giphy.com/media/a6G8yYEEyEhtK/giphy.gif)
-
 Feel free to reach out to me on my social handles or through GitHub if you share similar interests or want to collaborate on cybersecurity projects. Let's make the digital world a safer place together! 🔍🌐🔒
 
 ## Connect with Me 🤝
