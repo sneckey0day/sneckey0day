@@ -17,7 +17,7 @@ I started my journey into the world of cybersecurity with a strong curiosity to 
 
 ## TryHackMe Badge 🏅
 
-![TryHackMe Badge](<img src="https://tryhackme-badges.s3.amazonaws.com/Sneckey0Day.png" alt="TryHackMe">)
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Sneckey0Day.png)
 
 *Note: The badge reflects my achievements and progress on TryHackMe, a popular platform for learning cybersecurity through hands-on challenges.*
 
