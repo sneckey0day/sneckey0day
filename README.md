@@ -28,7 +28,7 @@ I started my journey into the world of cybersecurity with a strong curiosity to 
 </p>
 
 <p align="center">
-<a href="https://www.youtube.com/channel/UCLvDJV4TdI0RA76ezNuP3kg"><img title="YouTube" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCLvDJV4TdI0RA76ezNuP3kg"></a>
+<a href="https://www.youtube.com/channel/UCLvDJV4TdI0RA76ezNuP3kg"><img title="YouTube" src="<img alt="Endpoint Badge" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCLvDJV4TdI0RA76ezNuP3kg"></a>
 <a href="https://rebrand.ly/noobhackers"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Noob Hackers-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 
