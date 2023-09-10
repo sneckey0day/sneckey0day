@@ -38,7 +38,7 @@ I started my journey into the world of cybersecurity with a strong curiosity to 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sneckey0day&show_icons=true&theme=dark)
 
 ## Contact Information
-- ✉️ Email: codewithprash.business@gmail.com
+- ✉️ Email: sneckey0day@gmil.com
 - 📷 Instagram: [@Sneckey0Day](https://www.instagram.com/sneckey0day)
 - 🌐 LinkedIn: [Sneckey0Day](https://www.linkedin.com/in/johndoe](https://www.linkedin.com/in/sneckey0day))
 - 🐦 Twitter: [Sneckey0Day](https://twitter.com/johndoe](https://twitter.com/sneckey0day))
