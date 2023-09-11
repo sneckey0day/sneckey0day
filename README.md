@@ -40,10 +40,8 @@ I started my journey into the world of cybersecurity with a strong curiosity to 
 
 ## Github Repo's
 <p align="center">
-<a href="https://github.com/noob-hackers/grabcam"><img title="grabcam" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=grabcam&theme=radical"></a>
-<a href="https://github.com/noob-hackers/mrphish"><img title="mrphish" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=mrphish&theme=highcontrast"></a>
-<a href="https://github.com/noob-hackers/kalimux"><img title="kalimux" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=kalimux&theme=vision-friendly-dark"></a>
-<a href="https://github.com/noob-hackers/ipdrone"><img title="ipdrone" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=ipdrone&theme=highcontrast"></a>
+<a href="https://github.com/sneckey0day/Windows-Activation"><img title="Windows-Activation" src="https://github-readme-stats.vercel.app/api/pin/?username=sneckey0day&repo=Windows-Activation&theme=radical"></a>
+<a href="https://github.com/sneckey0day/Bash-Scripting-Learning"><img title="Bash-Scripting-Learning" src="https://github-readme-stats.vercel.app/api/pin/?username=sneckey0day&repo=Bash-Scripting-Learning&theme=highcontrast"></a>
 </p>
 
 ## Contact Information
