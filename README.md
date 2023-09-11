@@ -38,6 +38,14 @@ I started my journey into the world of cybersecurity with a strong curiosity to 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sneckey0day&show_icons=true&theme=dark)
 
+## Github Repo's
+<p align="center">
+<a href="https://github.com/noob-hackers/grabcam"><img title="grabcam" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=grabcam&theme=radical"></a>
+<a href="https://github.com/noob-hackers/mrphish"><img title="mrphish" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=mrphish&theme=highcontrast"></a>
+<a href="https://github.com/noob-hackers/kalimux"><img title="kalimux" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=kalimux&theme=vision-friendly-dark"></a>
+<a href="https://github.com/noob-hackers/ipdrone"><img title="ipdrone" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=ipdrone&theme=highcontrast"></a>
+</p>
+
 ## Contact Information
 - ✉️ Email: sneckey0day@gmil.com
 - 📷 Instagram: [@Sneckey0Day](https://www.instagram.com/sneckey0day)
