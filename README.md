@@ -26,7 +26,7 @@ I started my journey into the world of cybersecurity with a strong curiosity to 
 - 🔐 **Penetration Testing**
 
 ## Certificates and Achievements
--[Certified Secure Computer User (CSSUv2)(https://aspen.eccouncil.org/VerifyBadge?type=certification&a=9hQtRkcTuX2bgtuV7Z1JMJoMzPSpjhngGjWucR8UsnM=)
+- [Certified Secure Computer User (CSSUv2)(https://aspen.eccouncil.org/VerifyBadge?type=certification&a=9hQtRkcTuX2bgtuV7Z1JMJoMzPSpjhngGjWucR8UsnM=)
 - [Jr Penetration Tester - TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RNVYDC1YGB.png)
 
   
