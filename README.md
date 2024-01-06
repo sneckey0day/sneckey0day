@@ -32,7 +32,7 @@ I started my journey into the world of cybersecurity with a strong curiosity to 
   
 ## TryHackMe Badge 🏅
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Sneckey0Day.png)
+- <script src="https://tryhackme.com/badge/1978715"></script>
 
 
 ## GitHub Stats
