@@ -37,6 +37,7 @@ I started my journey into the world of cybersecurity with a strong curiosity to 
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sneckey0day&show_icons=true&theme=dark)
+[![](https://visitcount.itsvg.in/api?id=Sneckey0Day&label=Profile%20Views&color=9&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 ## Github Repo's
 <p align="center">
