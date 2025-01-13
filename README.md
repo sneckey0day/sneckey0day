@@ -45,7 +45,7 @@ I started my journey into the world of cybersecurity with a strong curiosity to 
 
 ## Github Repo's
 <p align="center">
-<a href="https://github.com/sneckey0day/Windows-Activation"><img title="Windows-Activation" src="https://github-readme-stats.vercel.app/api/pin/?username=sneckey0day&repo=Windows-Activation&theme=radical"></a>
+<a href="https://github.com/sneckey0day/Windows-Activation"><img title="Windows-Activation" src="https://github-readme-stats.vercel.app/api/pin/?username=sneckey0day&repo=Windows-Activation&theme=highcontrast"></a>
 <a href="https://github.com/sneckey0day/Bash-Scripting-Learning"><img title="Bash-Scripting-Learning" src="https://github-readme-stats.vercel.app/api/pin/?username=sneckey0day&repo=Bash-Scripting-Learning&theme=highcontrast"></a>
 </p>
 
