@@ -26,8 +26,13 @@ I started my journey into the world of cybersecurity with a strong curiosity to 
 - 🔐 **Penetration Testing**
 
 ## Certificates and Achievements
-- [Certified Secure Computer User (CSSUv2)](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=9hQtRkcTuX2bgtuV7Z1JMJoMzPSpjhngGjWucR8UsnM=)
+### Tryhackme
 - [Jr Penetration Tester - TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RNVYDC1YGB.png)
+- [CompTIA Pentest+](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BHTBE2NVTE.pdf)
+- 
+### Ec-Council
+- [Certified Ethical Hacker (CEH)](https://aspen.eccouncil.org/Certificate/DownloadDigitalCert?Serial=p1xgLYE+zBG8rOjCpi3g/hJd+TKH8VU0eqrZPgWfVjg=)
+- [Certified Network Defender (CND)](https://aspen.eccouncil.org/Certificate/DownloadDigitalCert?Serial=0Np/ojP+4FBkh29yuC0BQQInjoQ45Dj1G7a8tGbzkjk=)
 
   
 ## TryHackMe Badge 🏅
