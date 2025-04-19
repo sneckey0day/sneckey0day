@@ -1,5 +1,4 @@
 # Welcome Myself Harsh Parashar 👨‍💻🔒
-<p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt">
 
 ## About Me 🕵️‍♂️
 
@@ -33,15 +32,6 @@ I started my journey into the world of cybersecurity with a strong curiosity to 
 - [Certified Ethical Hacker (CEH)](https://aspen.eccouncil.org/Certificate/DownloadDigitalCert?Serial=p1xgLYE+zBG8rOjCpi3g/hJd+TKH8VU0eqrZPgWfVjg=)
 - [Certified Network Defender (CND)](https://aspen.eccouncil.org/Certificate/DownloadDigitalCert?Serial=0Np/ojP+4FBkh29yuC0BQQInjoQ45Dj1G7a8tGbzkjk=)
 
-  
-## TryHackMe Badge 🏅
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/Sneckey0Day.png" alt="TryHackMe">
-
-
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sneckey0day&show_icons=true&theme=dark)
-[![](https://visitcount.itsvg.in/api?id=Sneckey0Day&label=Profile%20Views&color=9&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 ## Github Repo's
 <p align="center">
