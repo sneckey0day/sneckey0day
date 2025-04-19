@@ -41,6 +41,5 @@ I started my journey into the world of cybersecurity with a strong curiosity to 
 
 ## Contact Information
 - ✉️ Email: sneckey0day@gmil.com
-- 📷 Instagram: [@Sneckey0Day](https://www.instagram.com/sneckey0day)
 - 🌐 LinkedIn: [Sneckey0Day](https://www.linkedin.com/in/johndoe](https://www.linkedin.com/in/sneckey0day))
 - 🐦 Twitter: [Sneckey0Day](https://twitter.com/johndoe](https://twitter.com/sneckey0day))
